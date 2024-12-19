@@ -27,7 +27,7 @@ class MountainBike extends Bicycle {
     }
     @Override
     public String toString() {
-        return (super.toString() + "высота \nseat равна " + seatHeight);
+        return (super.toString() + "\nвысотаseat равна " + seatHeight);
     }
 }
 
